@@ -6,5 +6,4 @@ After installation, follow these steps to get started:
 - Set up your preferences.
 - Start adding tasks!
 
-- [Back to Installation Guide](user-guide/installation.md)
-- [Back To Main](README.md)
+- [Back to Installation Guide](installation.md)
