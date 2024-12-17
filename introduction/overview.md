@@ -9,4 +9,6 @@
 
 ![App Logo](https://imgur.com/gallery/childhood-x2sIip7#/t/movies_and_tv)
 
-For more details, check out the [Features](features.md) section.
+For more details, check out the [Features](introduction/features.md) section.
+
+- [BackToMain](README.md)
